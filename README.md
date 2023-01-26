@@ -1,6 +1,8 @@
 # CRUD MVC Java MySQL
 CRUD usando Java (JForm) con MVC y conectado a la base de datos (MySQL) 
 
+![imagen](https://user-images.githubusercontent.com/78062855/214745636-66a94376-e4c1-4a61-9aba-a7a9b06fcc7c.png)
+
 
 ## Requerimientos 📋
 - JDK 8.0 o superior
