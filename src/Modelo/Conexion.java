@@ -12,7 +12,7 @@ public class Conexion {
 
     Connection con = null;
 
-    String base = "tiendaa"; //Nombre de la base de datos
+    String base = "tienda"; //Nombre de la base de datos
     String url = "jdbc:mysql://localhost:3306/" + base; //Direccion, puerto y nombre de la Base de Datos
     String user = "root"; //Usuario de Acceso a MySQL
     String password = "password"; //Password del usuario
